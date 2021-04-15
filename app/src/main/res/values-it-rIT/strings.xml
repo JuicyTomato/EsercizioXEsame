@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EsercizioXEsame</string>
+    <string name="invalid_password">Password errata</string>
+    <string name="invalid_email">E-mail non valida</string>
+    <string name="info_username_password">La password non può essere vuota e deve contenere almeno 4 caratteri. L\'email deve essere valida.</string>
+    <string name="password">Password</string>
+    <string name="signin">Accedi</string>
+    <string name="email_address">Indirizzo E-mail</string>
+</resources>
